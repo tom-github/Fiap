@@ -1,0 +1,8 @@
+C:\Users\eferreira\Desktop\FIAP\CalculoImpostos\CalculoImpostos\bin\Debug\Fiap.CalculoImpostos.PL.exe.config
+C:\Users\eferreira\Desktop\FIAP\CalculoImpostos\CalculoImpostos\bin\Debug\Fiap.CalculoImpostos.PL.exe
+C:\Users\eferreira\Desktop\FIAP\CalculoImpostos\CalculoImpostos\bin\Debug\Fiap.CalculoImpostos.PL.pdb
+C:\Users\eferreira\Desktop\FIAP\CalculoImpostos\CalculoImpostos\obj\Debug\Fiap.CalculoImpostos.PL.csprojResolveAssemblyReference.cache
+C:\Users\eferreira\Desktop\FIAP\CalculoImpostos\CalculoImpostos\obj\Debug\Fiap.CalculoImpostos.PL.Properties.Resources.resources
+C:\Users\eferreira\Desktop\FIAP\CalculoImpostos\CalculoImpostos\obj\Debug\Fiap.CalculoImpostos.PL.csproj.GenerateResource.Cache
+C:\Users\eferreira\Desktop\FIAP\CalculoImpostos\CalculoImpostos\obj\Debug\Fiap.CalculoImpostos.PL.exe
+C:\Users\eferreira\Desktop\FIAP\CalculoImpostos\CalculoImpostos\obj\Debug\Fiap.CalculoImpostos.PL.pdb

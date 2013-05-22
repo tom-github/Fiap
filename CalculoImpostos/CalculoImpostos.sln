@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.CalculoImpostos.PL", "CalculoImpostos\Fiap.CalculoImpostos.PL.csproj", "{4639F5E5-024E-465E-8828-437F8B4CDBF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.CalculoImpostos.BLL", "Fiap.CalculoImpostos.BLL\Fiap.CalculoImpostos.BLL.csproj", "{FD584447-59A9-447D-A934-ABBF33665B19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.CalculoImpostos.UnitTests", "Fiap.CalculoImpostos.UnitTests\Fiap.CalculoImpostos.UnitTests.csproj", "{91A9A992-2F20-4526-9F76-C212628B5C52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4639F5E5-024E-465E-8828-437F8B4CDBF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4639F5E5-024E-465E-8828-437F8B4CDBF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4639F5E5-024E-465E-8828-437F8B4CDBF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4639F5E5-024E-465E-8828-437F8B4CDBF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD584447-59A9-447D-A934-ABBF33665B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD584447-59A9-447D-A934-ABBF33665B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD584447-59A9-447D-A934-ABBF33665B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD584447-59A9-447D-A934-ABBF33665B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A9A992-2F20-4526-9F76-C212628B5C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A9A992-2F20-4526-9F76-C212628B5C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A9A992-2F20-4526-9F76-C212628B5C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A9A992-2F20-4526-9F76-C212628B5C52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
