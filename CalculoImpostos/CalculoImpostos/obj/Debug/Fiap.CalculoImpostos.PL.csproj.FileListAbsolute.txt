@@ -6,3 +6,14 @@ C:\Users\eferreira\Desktop\FIAP\CalculoImpostos\CalculoImpostos\obj\Debug\Fiap.C
 C:\Users\eferreira\Desktop\FIAP\CalculoImpostos\CalculoImpostos\obj\Debug\Fiap.CalculoImpostos.PL.csproj.GenerateResource.Cache
 C:\Users\eferreira\Desktop\FIAP\CalculoImpostos\CalculoImpostos\obj\Debug\Fiap.CalculoImpostos.PL.exe
 C:\Users\eferreira\Desktop\FIAP\CalculoImpostos\CalculoImpostos\obj\Debug\Fiap.CalculoImpostos.PL.pdb
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\CalculoImpostos\bin\Debug\Fiap.CalculoImpostos.PL.exe.config
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\CalculoImpostos\obj\Debug\Fiap.CalculoImpostos.PL.exe
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\CalculoImpostos\obj\Debug\Fiap.CalculoImpostos.PL.pdb
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\CalculoImpostos\bin\Debug\Fiap.CalculoImpostos.PL.exe
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\CalculoImpostos\bin\Debug\Fiap.CalculoImpostos.PL.pdb
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\CalculoImpostos\obj\Debug\Fiap.CalculoImpostos.PL.csprojResolveAssemblyReference.cache
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\CalculoImpostos\obj\Debug\Fiap.CalculoImpostos.PL.Properties.Resources.resources
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\CalculoImpostos\obj\Debug\Fiap.CalculoImpostos.PL.csproj.GenerateResource.Cache
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\CalculoImpostos\bin\Debug\Fiap.CalculoImpostos.BLL.dll
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\CalculoImpostos\bin\Debug\Fiap.CalculoImpostos.BLL.pdb
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\CalculoImpostos\obj\Debug\Fiap.CalculoImpostos.PL.FormCalculoImposto.resources

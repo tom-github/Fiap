@@ -2,9 +2,9 @@
 {
     public class INSS
     {
-        public void EvaluateINSS(decimal salary)
+        public decimal EvaluateINSS(decimal salary)
         {
-
+            return salary * 11 / 100;
         }
     }
 }

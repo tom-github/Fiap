@@ -3,3 +3,8 @@ C:\Users\eferreira\Desktop\FIAP\CalculoImpostos\Fiap.CalculoImpostos.BLL\bin\Deb
 C:\Users\eferreira\Desktop\FIAP\CalculoImpostos\Fiap.CalculoImpostos.BLL\obj\Debug\Fiap.CalculoImpostos.BLL.csprojResolveAssemblyReference.cache
 C:\Users\eferreira\Desktop\FIAP\CalculoImpostos\Fiap.CalculoImpostos.BLL\obj\Debug\Fiap.CalculoImpostos.BLL.dll
 C:\Users\eferreira\Desktop\FIAP\CalculoImpostos\Fiap.CalculoImpostos.BLL\obj\Debug\Fiap.CalculoImpostos.BLL.pdb
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\Fiap.CalculoImpostos.BLL\bin\Debug\Fiap.CalculoImpostos.BLL.dll
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\Fiap.CalculoImpostos.BLL\bin\Debug\Fiap.CalculoImpostos.BLL.pdb
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\Fiap.CalculoImpostos.BLL\obj\Debug\Fiap.CalculoImpostos.BLL.csprojResolveAssemblyReference.cache
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\Fiap.CalculoImpostos.BLL\obj\Debug\Fiap.CalculoImpostos.BLL.dll
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\Fiap.CalculoImpostos.BLL\obj\Debug\Fiap.CalculoImpostos.BLL.pdb

@@ -5,3 +5,10 @@ C:\Users\eferreira\Desktop\FIAP\CalculoImpostos\Fiap.CalculoImpostos.UnitTests\o
 C:\Users\eferreira\Desktop\FIAP\CalculoImpostos\Fiap.CalculoImpostos.UnitTests\obj\Debug\Fiap.CalculoImpostos.UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\eferreira\Desktop\FIAP\CalculoImpostos\Fiap.CalculoImpostos.UnitTests\bin\Debug\Fiap.CalculoImpostos.BLL.dll
 C:\Users\eferreira\Desktop\FIAP\CalculoImpostos\Fiap.CalculoImpostos.UnitTests\bin\Debug\Fiap.CalculoImpostos.BLL.pdb
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\Fiap.CalculoImpostos.UnitTests\bin\Debug\Fiap.CalculoImpostos.UnitTests.dll
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\Fiap.CalculoImpostos.UnitTests\bin\Debug\Fiap.CalculoImpostos.UnitTests.pdb
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\Fiap.CalculoImpostos.UnitTests\bin\Debug\Fiap.CalculoImpostos.BLL.dll
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\Fiap.CalculoImpostos.UnitTests\bin\Debug\Fiap.CalculoImpostos.BLL.pdb
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\Fiap.CalculoImpostos.UnitTests\obj\Debug\Fiap.CalculoImpostos.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\Fiap.CalculoImpostos.UnitTests\obj\Debug\Fiap.CalculoImpostos.UnitTests.dll
+C:\Users\eferreira\Documents\GitHub\Fiap\CalculoImpostos\Fiap.CalculoImpostos.UnitTests\obj\Debug\Fiap.CalculoImpostos.UnitTests.pdb
