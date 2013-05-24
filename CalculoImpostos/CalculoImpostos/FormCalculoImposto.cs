@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Globalization;
 using System.Windows.Forms;
 
 namespace Fiap.CalculoImpostos.PL
@@ -25,7 +24,7 @@ namespace Fiap.CalculoImpostos.PL
 
                 txtNetSalary.Text = (salary - IFPF - INSS).ToString();
             }
-            catch (FormatException ex)
+            catch (FormatException)
             {
                 MessageBox.Show(string.Format("Formato númerico inválido, utilize somente números!"));
             }
