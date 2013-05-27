@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.CaixaEletronicoPL", "CaixaEletronico\Fiap.CaixaEletronicoPL.csproj", "{1D2CFF80-E1C0-4C84-8FE9-4264CF783DD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.CustomControls", "UI\Fiap.CustomControls.csproj", "{4C0D8C3E-20DF-491C-98E0-606411DAEC4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.CaixaEletronicoBLL", "CaixaEletronicoBLL\Fiap.CaixaEletronicoBLL.csproj", "{68DCD294-8537-4A7A-ABC2-357C3BE71D4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.CaixaEletronico.Tests", "Fiap.CaixaEletronico.Tests\Fiap.CaixaEletronico.Tests.csproj", "{CD25ECFA-7E59-47BD-9272-F6CC6F5FC6D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D2CFF80-E1C0-4C84-8FE9-4264CF783DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D2CFF80-E1C0-4C84-8FE9-4264CF783DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D2CFF80-E1C0-4C84-8FE9-4264CF783DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D2CFF80-E1C0-4C84-8FE9-4264CF783DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C0D8C3E-20DF-491C-98E0-606411DAEC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C0D8C3E-20DF-491C-98E0-606411DAEC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C0D8C3E-20DF-491C-98E0-606411DAEC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C0D8C3E-20DF-491C-98E0-606411DAEC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68DCD294-8537-4A7A-ABC2-357C3BE71D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DCD294-8537-4A7A-ABC2-357C3BE71D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DCD294-8537-4A7A-ABC2-357C3BE71D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DCD294-8537-4A7A-ABC2-357C3BE71D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD25ECFA-7E59-47BD-9272-F6CC6F5FC6D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD25ECFA-7E59-47BD-9272-F6CC6F5FC6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD25ECFA-7E59-47BD-9272-F6CC6F5FC6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD25ECFA-7E59-47BD-9272-F6CC6F5FC6D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

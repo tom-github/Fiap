@@ -1,0 +1,7 @@
+C:\Users\rm44568\Desktop\New folder\CaixaEletronico\UI\obj\Debug\fiap.CustomControls.csprojResolveAssemblyReference.cache
+C:\Users\rm44568\Desktop\New folder\CaixaEletronico\UI\bin\Debug\Fiap.CustomControls.dll
+C:\Users\rm44568\Desktop\New folder\CaixaEletronico\UI\bin\Debug\Fiap.CustomControls.pdb
+C:\Users\rm44568\Desktop\New folder\CaixaEletronico\UI\obj\Debug\Fiap.CustomControls.dll
+C:\Users\rm44568\Desktop\New folder\CaixaEletronico\UI\obj\Debug\Fiap.CustomControls.pdb
+C:\Users\rm44568\Desktop\New folder\CaixaEletronico\UI\obj\Debug\Fiap.CustomControls.MyTextBox.resources
+C:\Users\rm44568\Desktop\New folder\CaixaEletronico\UI\obj\Debug\fiap.CustomControls.csproj.GenerateResource.Cache
