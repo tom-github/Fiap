@@ -1,5 +1,0 @@
-C:\Users\rm44568\Desktop\New folder\CaixaEletronico\CaixaEletronicoBLL\bin\Debug\Fiap.CaixaEletronicoBLL.dll
-C:\Users\rm44568\Desktop\New folder\CaixaEletronico\CaixaEletronicoBLL\bin\Debug\Fiap.CaixaEletronicoBLL.pdb
-C:\Users\rm44568\Desktop\New folder\CaixaEletronico\CaixaEletronicoBLL\obj\Debug\Fiap.CaixaEletronicoBLL.csprojResolveAssemblyReference.cache
-C:\Users\rm44568\Desktop\New folder\CaixaEletronico\CaixaEletronicoBLL\obj\Debug\Fiap.CaixaEletronicoBLL.dll
-C:\Users\rm44568\Desktop\New folder\CaixaEletronico\CaixaEletronicoBLL\obj\Debug\Fiap.CaixaEletronicoBLL.pdb

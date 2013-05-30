@@ -1,0 +1,14 @@
+C:\Users\rm44568\Desktop\New folder\CaixaEletronico\UI\obj\Debug\fiap.CustomControls.csprojResolveAssemblyReference.cache
+C:\Users\rm44568\Desktop\New folder\CaixaEletronico\UI\bin\Debug\Fiap.CustomControls.dll
+C:\Users\rm44568\Desktop\New folder\CaixaEletronico\UI\bin\Debug\Fiap.CustomControls.pdb
+C:\Users\rm44568\Desktop\New folder\CaixaEletronico\UI\obj\Debug\Fiap.CustomControls.dll
+C:\Users\rm44568\Desktop\New folder\CaixaEletronico\UI\obj\Debug\Fiap.CustomControls.pdb
+C:\Users\rm44568\Desktop\New folder\CaixaEletronico\UI\obj\Debug\Fiap.CustomControls.MyTextBox.resources
+C:\Users\rm44568\Desktop\New folder\CaixaEletronico\UI\obj\Debug\fiap.CustomControls.csproj.GenerateResource.Cache
+C:\Users\Everton\Documents\GitHub\Fiap\CaixaEletronico\UI\bin\Debug\Fiap.CustomControls.dll
+C:\Users\Everton\Documents\GitHub\Fiap\CaixaEletronico\UI\bin\Debug\Fiap.CustomControls.pdb
+C:\Users\Everton\Documents\GitHub\Fiap\CaixaEletronico\UI\obj\Debug\Fiap.CustomControls.csprojResolveAssemblyReference.cache
+C:\Users\Everton\Documents\GitHub\Fiap\CaixaEletronico\UI\obj\Debug\Fiap.CustomControls.MyTextBox.resources
+C:\Users\Everton\Documents\GitHub\Fiap\CaixaEletronico\UI\obj\Debug\Fiap.CustomControls.csproj.GenerateResource.Cache
+C:\Users\Everton\Documents\GitHub\Fiap\CaixaEletronico\UI\obj\Debug\Fiap.CustomControls.dll
+C:\Users\Everton\Documents\GitHub\Fiap\CaixaEletronico\UI\obj\Debug\Fiap.CustomControls.pdb
