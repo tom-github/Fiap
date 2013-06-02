@@ -20,6 +20,11 @@ namespace CaixaEletronico
         int? amountCashValue10;
         int? amountCashValue5;
 
+        int tempAmountCashValue50;
+        int tempAmountCashValue20;
+        int tempAmountCashValue10;
+        int tempAmountCashValue5;
+
         public FormATM()
         {
             InitializeComponent();
@@ -52,6 +57,7 @@ namespace CaixaEletronico
         {
             try
             {
+
                 Withdrawal calc = new Withdrawal();
                 int valueDrawee = Convert.ToInt32(txtValueDrawee.Text);
                 Tuple<int, int> tupleRemainder;
@@ -72,12 +78,53 @@ namespace CaixaEletronico
                 tupleRemainder = calc.Calculate(tupleRemainder.Item2, Withdrawal.enumMoneyValue.Two, 0);
                 txtAmountCashValue2.Text = tupleRemainder.Item1.ToString();
 
+
+
+                CacheCashValues();
+
             }
             catch (Exception ex)
             {
+                RetriaverCach();
+
                 MessageBox.Show(ex.Message);
             }
+        }
 
+        private void RetriaverCach()
+        {
+            try
+            {
+                amountCashValue50 = null;
+                amountCashValue20 = null;
+                amountCashValue10 = null;
+                amountCashValue5 = null;
+
+                txtAmountCashValue50.Text = tempAmountCashValue50.ToString();
+                txtAmountCashValue20.Text = tempAmountCashValue20.ToString();
+                txtAmountCashValue10.Text = tempAmountCashValue10.ToString();
+                txtAmountCashValue5.Text = tempAmountCashValue5.ToString();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        private void CacheCashValues()
+        {
+            try
+            {
+                tempAmountCashValue50 = !string.IsNullOrEmpty(txtAmountCashValue50.Text) ? Convert.ToInt32(txtAmountCashValue50.Text) : 0;
+                tempAmountCashValue20 = !string.IsNullOrEmpty(txtAmountCashValue20.Text) ? Convert.ToInt32(txtAmountCashValue20.Text) : 0;
+                tempAmountCashValue10 = !string.IsNullOrEmpty(txtAmountCashValue10.Text) ? Convert.ToInt32(txtAmountCashValue10.Text) : 0;
+                tempAmountCashValue5 = !string.IsNullOrEmpty(txtAmountCashValue5.Text) ? Convert.ToInt32(txtAmountCashValue5.Text) : 0;
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
         }
 
         private void txtAmountCashValue50_KeyUp(object sender, KeyEventArgs e)
