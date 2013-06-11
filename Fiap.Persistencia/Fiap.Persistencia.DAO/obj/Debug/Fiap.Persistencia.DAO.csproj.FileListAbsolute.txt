@@ -1,0 +1,5 @@
+C:\Users\rm44568\exercicio\Fiap.Persistencia\Fiap.Persistencia.DAO\obj\Debug\Fiap.Persistencia.DAO.csprojResolveAssemblyReference.cache
+C:\Users\rm44568\exercicio\Fiap.Persistencia\Fiap.Persistencia.DAO\bin\Debug\Fiap.Persistencia.DAO.dll
+C:\Users\rm44568\exercicio\Fiap.Persistencia\Fiap.Persistencia.DAO\bin\Debug\Fiap.Persistencia.DAO.pdb
+C:\Users\rm44568\exercicio\Fiap.Persistencia\Fiap.Persistencia.DAO\obj\Debug\Fiap.Persistencia.DAO.dll
+C:\Users\rm44568\exercicio\Fiap.Persistencia\Fiap.Persistencia.DAO\obj\Debug\Fiap.Persistencia.DAO.pdb

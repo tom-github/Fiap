@@ -1,0 +1,4 @@
+C:\Users\rm44568\exercicio\Fiap.Persistencia\Fiap.Persistencia.DAO\bin\Debug\Fiap.Persistencia.Ado.dll
+C:\Users\rm44568\exercicio\Fiap.Persistencia\Fiap.Persistencia.DAO\bin\Debug\Fiap.Persistencia.Ado.pdb
+C:\Users\rm44568\exercicio\Fiap.Persistencia\Fiap.Persistencia.DAO\obj\Debug\Fiap.Persistencia.Ado.dll
+C:\Users\rm44568\exercicio\Fiap.Persistencia\Fiap.Persistencia.DAO\obj\Debug\Fiap.Persistencia.Ado.pdb
