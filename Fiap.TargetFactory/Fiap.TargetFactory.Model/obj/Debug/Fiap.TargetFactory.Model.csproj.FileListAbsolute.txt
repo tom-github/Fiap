@@ -1,0 +1,10 @@
+C:\Users\Everton\Desktop\TargetFactory\Fiap.TargetFactory.Model\bin\Debug\Fiap.TargetFactory.Model.dll
+C:\Users\Everton\Desktop\TargetFactory\Fiap.TargetFactory.Model\bin\Debug\Fiap.TargetFactory.Model.pdb
+C:\Users\Everton\Desktop\TargetFactory\Fiap.TargetFactory.Model\obj\Debug\Fiap.TargetFactory.Model.dll
+C:\Users\Everton\Desktop\TargetFactory\Fiap.TargetFactory.Model\obj\Debug\Fiap.TargetFactory.Model.pdb
+C:\Users\Everton\Desktop\TargetFactory\Fiap.TargetFactory.Model\obj\Debug\Fiap.TargetFactory.Model.csprojResolveAssemblyReference.cache
+C:\TargetFactory\Fiap.TargetFactory.Model\bin\Debug\Fiap.TargetFactory.Model.dll
+C:\TargetFactory\Fiap.TargetFactory.Model\bin\Debug\Fiap.TargetFactory.Model.pdb
+C:\TargetFactory\Fiap.TargetFactory.Model\obj\Debug\Fiap.TargetFactory.Model.csprojResolveAssemblyReference.cache
+C:\TargetFactory\Fiap.TargetFactory.Model\obj\Debug\Fiap.TargetFactory.Model.dll
+C:\TargetFactory\Fiap.TargetFactory.Model\obj\Debug\Fiap.TargetFactory.Model.pdb
